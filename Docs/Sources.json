@@ -1,0 +1,32 @@
+{
+  "folder": "https://drive.google.com/drive/folders/1XS7yLBBt6Y3WoucrSqxrNPau4EtfkU15",
+  "reviewed": "2026-11-12",
+  "modified": "2026-11-05",
+  "files": [
+    {
+      "name": "analytics.docx",
+      "id": "1yuLxMI4scaYI1fLN0cNhZmBdl9wx6aHX",
+      "sha256": "de09ca83cd03b63ee381878c98e96e6aa94e5387840e7e2c035274d41e35c431"
+    },
+    {
+      "name": "design.pdf",
+      "id": "1n3GvIiLR2pu9lovYBzqbhYC8AGNS7ghy",
+      "sha256": "240a670f8ebddf21a2b87a53371fd2ec33d82708b632b06db6fc9d7f0c69311f"
+    },
+    {
+      "name": "coin1.mov",
+      "id": "1s1w-1p9N1HoIF7D0Sb_zsCI0IDCwkis2",
+      "sha256": "b60c8f2574b60410d9b28075f935055d2c323b06bfe8d9dfcc5afbded405cf71"
+    },
+    {
+      "name": "coin2.mp4",
+      "id": "1kJHvOBr4T8P20NZNIY_3jxumvjFOZosy",
+      "sha256": "9c42d877539dd62c2b3120dcadf97e25861f60c6d4073ed3c954e3d489c8e778"
+    },
+    {
+      "name": "coin3.mp4",
+      "id": "1-T2G3kNon8f-JqANSJtKuv8JKTaYbI7F",
+      "sha256": "dadb0865a0ab352cc89950fd59d5a4d0306f2a4e9cf8726b82f949c8bb177ee5"
+    }
+  ]
+}
